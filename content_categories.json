@@ -1,0 +1,193 @@
+
+{
+  "brand": "Afdila Travel N' Tours",
+  "platform": "Instagram",
+  "content_categories": [
+    {
+      "id": "destination_inspiration",
+      "name": "Destination Inspiration",
+      "description": "Memperkenalkan destinasi wisata lokal dan internasional.",
+      "content_ideas": [
+        "Destination Showcase",
+        "Hidden Gems",
+        "Top Destinations",
+        "Dream Destinations",
+        "Must Visit Places"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 20
+    },
+    {
+      "id": "travel_packages",
+      "name": "Travel Packages",
+      "description": "Promosi paket wisata yang ditawarkan.",
+      "content_ideas": [
+        "Open Trip",
+        "Private Trip",
+        "Group Tour",
+        "Honeymoon Package",
+        "Family Holiday",
+        "International Tour"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 20
+    },
+    {
+      "id": "travel_tips_education",
+      "name": "Travel Tips & Education",
+      "description": "Edukasi dan panduan perjalanan wisata.",
+      "content_ideas": [
+        "Visa Information",
+        "Passport Guide",
+        "Travel Checklist",
+        "Packing Tips",
+        "Travel Budget Tips",
+        "Travel Safety",
+        "Travel Guide"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 15
+    },
+    {
+      "id": "travel_experience",
+      "name": "Travel Experience",
+      "description": "Menampilkan pengalaman dan aktivitas wisata.",
+      "content_ideas": [
+        "City Tour",
+        "Cultural Experience",
+        "Local Cuisine",
+        "Adventure Activities",
+        "Landmark Exploration",
+        "Travel Moments"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 10
+    },
+    {
+      "id": "special_offers",
+      "name": "Special Offers & Campaigns",
+      "description": "Promosi khusus untuk meningkatkan pemesanan.",
+      "content_ideas": [
+        "Flash Sale",
+        "Early Bird Promotion",
+        "Limited Time Offer",
+        "Seasonal Promotion",
+        "Special Discount",
+        "Holiday Deals"
+      ],
+      "formats": ["Feed", "Stories", "Reels"],
+      "percentage": 10
+    },
+    {
+      "id": "customer_testimonials",
+      "name": "Customer Testimonials",
+      "description": "Membangun kepercayaan melalui pengalaman pelanggan.",
+      "content_ideas": [
+        "Customer Reviews",
+        "Travel Testimonials",
+        "Customer Photos",
+        "Customer Videos",
+        "Travel Memories"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 10
+    },
+    {
+      "id": "about_us_trust",
+      "name": "About Us & Trust",
+      "description": "Memperkenalkan identitas dan profesionalitas agen perjalanan.",
+      "content_ideas": [
+        "Company Profile",
+        "Our Services",
+        "Meet Our Team",
+        "Why Choose Us",
+        "Company Values",
+        "Travel Service Information"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 5
+    },
+    {
+      "id": "flight_ticket_promotion",
+      "name": "Flight & Ticket Promotion",
+      "description": "Informasi tiket pesawat dan layanan perjalanan.",
+      "content_ideas": [
+        "Flight Ticket Deals",
+        "International Flights",
+        "Domestic Flights",
+        "Airline Promotions",
+        "Hotel Booking",
+        "Travel Transportation"
+      ],
+      "formats": ["Feed", "Stories", "Reels"],
+      "percentage": 5
+    },
+    {
+      "id": "travel_lifestyle",
+      "name": "Travel Lifestyle & Motivation",
+      "description": "Konten inspiratif untuk membangun minat traveling.",
+      "content_ideas": [
+        "Travel Quotes",
+        "Travel Bucket List",
+        "Dream Vacation",
+        "Travel Motivation",
+        "Wanderlust",
+        "Travel Lifestyle"
+      ],
+      "formats": ["Feed", "Carousel", "Reels", "Stories"],
+      "percentage": 3
+    },
+    {
+      "id": "interactive_content",
+      "name": "Interactive Content",
+      "description": "Meningkatkan interaksi dan engagement audiens.",
+      "content_ideas": [
+        "Travel Quiz",
+        "Travel Poll",
+        "This or That",
+        "Question & Answer",
+        "Guess The Destination",
+        "Audience Challenge"
+      ],
+      "formats": ["Stories", "Reels", "Carousel"],
+      "percentage": 2
+    }
+  ],
+  "visual_formats": {
+    "feed": {
+      "aspect_ratio": "4:5"
+    },
+    "square": {
+      "aspect_ratio": "1:1"
+    },
+    "stories": {
+      "aspect_ratio": "9:16"
+    },
+    "reels": {
+      "aspect_ratio": "9:16"
+    },
+    "landscape": {
+      "aspect_ratio": "16:9"
+    }
+  },
+  "default_settings": {
+    "language": "English",
+    "brand_identity": "Afdila Travel N' Tours",
+    "target_market": "International",
+    "content_style": "Modern, Premium, Professional, Inspiring",
+    "primary_goal": [
+      "Brand Awareness",
+      "Audience Engagement",
+      "Lead Generation",
+      "Travel Package Sales",
+      "Customer Trust"
+    ],
+    "call_to_action": [
+      "Explore More",
+      "Discover Your Next Destination",
+      "Plan Your Journey",
+      "Contact Us",
+      "Book Your Trip"
+    ]
+  }
+}
